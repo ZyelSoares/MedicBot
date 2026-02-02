@@ -1,0 +1,2 @@
+# MedicBot - dependências (tkinter já vem com o Python)
+pyinstaller>=5.0

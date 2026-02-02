@@ -1,0 +1,9 @@
+{
+  "name": "medicbot",
+  "version": "1.0.0",
+  "description": "MedicBot - Programa de Manutenção do Computador",
+  "scripts": {
+    "setup": "pip install -r requirements.txt",
+    "ship": "pyinstaller medicbot.spec"
+  }
+}
